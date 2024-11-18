@@ -21,6 +21,7 @@ https://picom.app/ main picom
 
 my icons suck and if you can find better i encourage you to do so,
 https://github.com/catppuccin/papirus-folders look better
+```cat-mocha-mauve```
 
 https://www.gnome-look.org/p/1996672 - ```Catppuccin-Mocha-Standard-Mauve-Dark.zip```
 
