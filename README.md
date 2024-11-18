@@ -27,7 +27,7 @@ https://www.gnome-look.org/p/1996672 - ```Catppuccin-Mocha-Standard-Mauve-Dark.z
 
 i dont think i forgot nun ion know
 
-polybar uses ubuntu nerd font < literally everthing
+polybar uses ubuntu nerd font or ubuntu mono nerd font < literally everthing
 
 block 
 
