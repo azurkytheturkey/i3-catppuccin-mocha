@@ -84,6 +84,10 @@ dynamic_title = true
 save_to_clipboard = true
 
 
+
+[font]
+size = 11.0
+
 [font.normal]
 family = "Ubuntu Mono Nerd Font"
 style = "Regular"
@@ -96,10 +100,9 @@ style = "Bold"
 family = "Ubuntu Mono Nerd Font"
 style = "Italic"
 
+
 [font.bold_italic]
 family = "Ubuntu Mono Nerd Font"
 style = "Bold Italic"
-
-
 
 
