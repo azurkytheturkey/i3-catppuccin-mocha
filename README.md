@@ -35,6 +35,8 @@ block
 
 ```www.youtube.com###background```
 
+![Screenshot_2024-11-21_00-27-07](https://github.com/user-attachments/assets/b5c680e9-6b1c-45f5-9f79-c4d09a846231)
+
 on ublock orgin since the youtube theme blows and i skidded the living fuck out of it
 
 https://github.com/jbenden/i3-gaps-rounded - i dont use real i3wm ig
