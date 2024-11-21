@@ -39,6 +39,6 @@ on ublock orgin since the youtube theme blows and i skidded the living fuck out 
 
 https://github.com/jbenden/i3-gaps-rounded - i dont use real i3wm ig
 
-btop theme is skidded by me to by mauve theme 
+btop theme is skidded by me to for mauve  
 
 ![Screenshot_2024-11-21_00-24-00](https://github.com/user-attachments/assets/f6e83f8a-8b4b-4b95-96f7-84def4797b71)
