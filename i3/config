@@ -16,13 +16,12 @@ set $mod Mod1
 
 bindsym $mod+l exec i3-msg '[class=".*"] floating toggle'
 
-
-gaps inner 15
-gaps top 50
-gaps bottom 50
+gaps outer -30
+gaps inner 45
+gaps top 35
+gaps bottom 35
 #gaps vertical 0
 #gaps horizontal 0
-
 
 for_window [class="^.*"] border pixel 4
 #hide_edge_borders both
@@ -76,8 +75,9 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+Return exec kitty
-#bindsym $mod+Return exec alacritty
+#bindsym $mod+Return exec kitty
+bindsym $mod+Return exec alacritty
+bindsym $mod+Shift+Return exec floorp
 
 # kill focused window
 bindsym $mod+q kill; exec --no-startup-id ~/move_mouse_center1.sh
