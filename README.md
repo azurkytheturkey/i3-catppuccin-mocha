@@ -4,9 +4,12 @@
 ![image](https://github.com/user-attachments/assets/ddc50282-5ba0-4f1a-876d-80b5011f090a)
 ![image](https://github.com/user-attachments/assets/2f970f3d-0c04-4cae-b915-eb78966935aa)
 
-current browser: https://floorp.app/en
+```current browser: ``` 
+https://floorp.app/en
+```current theme :```
 https://github.com/catppuccin/firefox
-https://github.com/maxhu08/mtab <- brings back the "brave broswer" home page
+```brings back the "brave broswer" home page / new tab page```
+https://github.com/maxhu08/mtab 
 
 MOVE "cachysmall" to home, make sure inside the neofetch is named properly.
 
