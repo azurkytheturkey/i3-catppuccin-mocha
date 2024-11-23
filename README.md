@@ -1,3 +1,4 @@
+
 # i3  medium
 2 monitors in config
 
@@ -6,8 +7,10 @@
 
 ```current browser: ``` 
 https://floorp.app/en
+
 ```current theme :```
 https://github.com/catppuccin/firefox
+
 ```brings back the "brave broswer" home page / new tab page```
 https://github.com/maxhu08/mtab 
 
