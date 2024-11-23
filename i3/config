@@ -215,7 +215,7 @@ bindsym $mod+o exec ./.config/polybar/forest/launch.sh || pkill polybar
 exec_always nitrogen --restore
 
 # make look  nicer
-exec_always autotiling -w
+exec_always autotiling -sr 2
 
 exec_always xrandr --output DisplayPort-2 --mode 1920x1080 --refresh 144
 exec_always xrandr --output HDMI-A-0 --mode 1920x1080 --refresh 60 
