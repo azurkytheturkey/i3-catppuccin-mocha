@@ -6,6 +6,7 @@
 
 current browser: https://floorp.app/en
 https://github.com/catppuccin/firefox
+https://github.com/maxhu08/mtab <- brings back the "brave broswer" home page
 
 MOVE "cachysmall" to home, make sure inside the neofetch is named properly.
 
